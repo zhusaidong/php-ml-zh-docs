@@ -38,7 +38,7 @@ composer require php-ai/php-ml
 ## 特性
 
 - 关联规则学习(Association rule Lerning)
-    - [Apriori](关联规则学习(Association rule Lerning)/Apriori.md)
+    - [Apriori](关联规则学习/Apriori.md)
 - 分类(Classification)
     - [SVC](https://php-ml.readthedocs.io/en/latest/machine-learning/classification/svc/)
     - [k-Nearest Neighbors](https://php-ml.readthedocs.io/en/latest/machine-learning/classification/k-nearest-neighbors/)

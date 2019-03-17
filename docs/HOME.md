@@ -40,7 +40,7 @@ composer require php-ai/php-ml
 - 关联规则学习(Association rule Lerning)
     - [Apriori](关联规则学习/Apriori.md)
 - 分类(Classification)
-    - [支持向量机(SVC)](https://php-ml.readthedocs.io/en/latest/machine-learning/classification/svc/)
+    - [支持向量机(SVC)](分类/SVC.md)
     - [K最近邻算法(k-Nearest Neighbors)](https://php-ml.readthedocs.io/en/latest/machine-learning/classification/k-nearest-neighbors/)
     - [朴素贝叶斯算法(Naive Bayes)](https://php-ml.readthedocs.io/en/latest/machine-learning/classification/naive-bayes/)
 - 回归(Regression)
